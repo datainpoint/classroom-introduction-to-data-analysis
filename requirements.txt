@@ -6,3 +6,5 @@ plotly
 dash
 streamlit
 altair
+jupyterlab-dash
+jupyter-server-proxy
